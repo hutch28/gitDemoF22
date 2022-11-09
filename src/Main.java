@@ -3,6 +3,8 @@ import java.util.ArrayList;
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Hello Class");
+
         String[] sarr = new String[5];
         ArrayList<String> sArrLst = new ArrayList<>();
 
