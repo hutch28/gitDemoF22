@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Hello my Class");
+        System.out.println("msg 2");
 
         String[] sarr = new String[5];
         ArrayList<String> sArrLst = new ArrayList<>();
