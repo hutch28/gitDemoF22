@@ -26,7 +26,7 @@ public class Main {
             System.out.println(sArrLst.get(i));
         }
         System.out.println();
-        sArrLst.remove(0);
+        sArrLst.remove(1);
         System.out.println(sArrLst);
 
 
